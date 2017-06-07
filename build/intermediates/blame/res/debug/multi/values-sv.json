@@ -1,0 +1,330 @@
+[
+    {
+        "outputFile": "U:\\OneDrive\\DM'N ionic2app - 1.10.0\\Deutsche-Mitte---Aktuelle-News\\platforms\\android\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-sv\\values-sv.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 106,
+                    "endOffset": 157
+                },
+                "from": {
+                    "file": "U:\\OneDrive\\DM'N ionic2app - 1.10.0\\Deutsche-Mitte---Aktuelle-News\\platforms\\android\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.8.2\\res\\values-sv\\values-sv.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 170,
+                        "endColumn": 106,
+                        "endOffset": 272
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 162,
+                    "endColumn": 115,
+                    "endOffset": 273
+                },
+                "from": {
+                    "file": "U:\\OneDrive\\DM'N ionic2app - 1.10.0\\Deutsche-Mitte---Aktuelle-News\\platforms\\android\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.8.2\\res\\values-sv\\values-sv.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 277,
+                        "endColumn": 115,
+                        "endOffset": 388
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 278,
+                    "endColumn": 92,
+                    "endOffset": 366
+                },
+                "from": {
+                    "file": "U:\\OneDrive\\DM'N ionic2app - 1.10.0\\Deutsche-Mitte---Aktuelle-News\\platforms\\android\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.8.2\\res\\values-sv\\values-sv.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 393,
+                        "endColumn": 92,
+                        "endOffset": 481
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 371,
+                    "endColumn": 66,
+                    "endOffset": 433
+                },
+                "from": {
+                    "file": "U:\\OneDrive\\DM'N ionic2app - 1.10.0\\Deutsche-Mitte---Aktuelle-News\\platforms\\android\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.8.2\\res\\values-sv\\values-sv.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 486,
+                        "endColumn": 66,
+                        "endOffset": 548
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 438,
+                    "endColumn": 68,
+                    "endOffset": 502
+                },
+                "from": {
+                    "file": "U:\\OneDrive\\DM'N ionic2app - 1.10.0\\Deutsche-Mitte---Aktuelle-News\\platforms\\android\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.8.2\\res\\values-sv\\values-sv.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 553,
+                        "endColumn": 68,
+                        "endOffset": 617
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 507,
+                    "endColumn": 59,
+                    "endOffset": 562
+                },
+                "from": {
+                    "file": "U:\\OneDrive\\DM'N ionic2app - 1.10.0\\Deutsche-Mitte---Aktuelle-News\\platforms\\android\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.8.2\\res\\values-sv\\values-sv.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 622,
+                        "endColumn": 59,
+                        "endOffset": 677
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 567,
+                    "endColumn": 71,
+                    "endOffset": 634
+                },
+                "from": {
+                    "file": "U:\\OneDrive\\DM'N ionic2app - 1.10.0\\Deutsche-Mitte---Aktuelle-News\\platforms\\android\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.8.2\\res\\values-sv\\values-sv.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 682,
+                        "endColumn": 71,
+                        "endOffset": 749
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 639,
+                    "endColumn": 73,
+                    "endOffset": 708
+                },
+                "from": {
+                    "file": "U:\\OneDrive\\DM'N ionic2app - 1.10.0\\Deutsche-Mitte---Aktuelle-News\\platforms\\android\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.8.2\\res\\values-sv\\values-sv.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 754,
+                        "endColumn": 73,
+                        "endOffset": 823
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 713,
+                    "endColumn": 91,
+                    "endOffset": 800
+                },
+                "from": {
+                    "file": "U:\\OneDrive\\DM'N ionic2app - 1.10.0\\Deutsche-Mitte---Aktuelle-News\\platforms\\android\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.8.2\\res\\values-sv\\values-sv.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 828,
+                        "endColumn": 91,
+                        "endOffset": 915
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 805,
+                    "endColumn": 74,
+                    "endOffset": 875
+                },
+                "from": {
+                    "file": "U:\\OneDrive\\DM'N ionic2app - 1.10.0\\Deutsche-Mitte---Aktuelle-News\\platforms\\android\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.8.2\\res\\values-sv\\values-sv.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 920,
+                        "endColumn": 74,
+                        "endOffset": 990
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 880,
+                    "endColumn": 74,
+                    "endOffset": 950
+                },
+                "from": {
+                    "file": "U:\\OneDrive\\DM'N ionic2app - 1.10.0\\Deutsche-Mitte---Aktuelle-News\\platforms\\android\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.8.2\\res\\values-sv\\values-sv.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 995,
+                        "endColumn": 74,
+                        "endOffset": 1065
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 955,
+                    "endColumn": 82,
+                    "endOffset": 1033
+                },
+                "from": {
+                    "file": "U:\\OneDrive\\DM'N ionic2app - 1.10.0\\Deutsche-Mitte---Aktuelle-News\\platforms\\android\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.8.2\\res\\values-sv\\values-sv.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 1070,
+                        "endColumn": 82,
+                        "endOffset": 1148
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 1038,
+                    "endColumn": 97,
+                    "endOffset": 1131
+                },
+                "from": {
+                    "file": "U:\\OneDrive\\DM'N ionic2app - 1.10.0\\Deutsche-Mitte---Aktuelle-News\\platforms\\android\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.8.2\\res\\values-sv\\values-sv.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 4,
+                        "startOffset": 1153,
+                        "endColumn": 97,
+                        "endOffset": 1246
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 1136,
+                    "endColumn": 64,
+                    "endOffset": 1196
+                },
+                "from": {
+                    "file": "U:\\OneDrive\\DM'N ionic2app - 1.10.0\\Deutsche-Mitte---Aktuelle-News\\platforms\\android\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.8.2\\res\\values-sv\\values-sv.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 1251,
+                        "endColumn": 64,
+                        "endOffset": 1311
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 1201,
+                    "endColumn": 63,
+                    "endOffset": 1260
+                },
+                "from": {
+                    "file": "U:\\OneDrive\\DM'N ionic2app - 1.10.0\\Deutsche-Mitte---Aktuelle-News\\platforms\\android\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.8.2\\res\\values-sv\\values-sv.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 1316,
+                        "endColumn": 63,
+                        "endOffset": 1375
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 1265,
+                    "endColumn": 119,
+                    "endOffset": 1380
+                },
+                "from": {
+                    "file": "U:\\OneDrive\\DM'N ionic2app - 1.10.0\\Deutsche-Mitte---Aktuelle-News\\platforms\\android\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.8.2\\res\\values-sv\\values-sv.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 1380,
+                        "endColumn": 119,
+                        "endOffset": 1495
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 18,
+                    "startColumn": 4,
+                    "startOffset": 1385,
+                    "endColumn": 61,
+                    "endOffset": 1442
+                },
+                "from": {
+                    "file": "U:\\OneDrive\\DM'N ionic2app - 1.10.0\\Deutsche-Mitte---Aktuelle-News\\platforms\\android\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.8.2\\res\\values-sv\\values-sv.xml",
+                    "position": {
+                        "startLine": 22,
+                        "startColumn": 4,
+                        "startOffset": 1632,
+                        "endColumn": 61,
+                        "endOffset": 1689
+                    }
+                }
+            }
+        ]
+    }
+]

@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<widget id="de.dm.news" version="1.22.0" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0">
+<widget id="de.dm.news" version="1.35.0" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0">
     <feature name="Device">
         <param name="android-package" value="org.apache.cordova.device.Device" />
     </feature>
@@ -80,4 +80,7 @@
     <preference name="SplashScreen" value="screen" />
     <preference name="ShowSplashScreenSpinner" value="true" />
     <preference name="AutoHideSplashScreen" value="false" />
+    <preference name="WindowsStorePublisherName" value="West Weedtze Development - Michael Humann" />
+    <preference name="WindowsStoreIdentityName" value="17701WestWeedtzeDevelopme.DMN" />
+    <preference name="windows-target-version" value="8.1" />
 </widget>
