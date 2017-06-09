@@ -80,6 +80,4 @@
     <preference name="SplashScreen" value="screen" />
     <preference name="ShowSplashScreenSpinner" value="true" />
     <preference name="AutoHideSplashScreen" value="false" />
-    <preference name="WindowsStorePublisherName" value="West Weedtze Development - Michael Humann" />
-    <preference name="WindowsStoreIdentityName" value="17701WestWeedtzeDevelopme.DMN" />
 </widget>
